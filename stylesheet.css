@@ -19,3 +19,14 @@
 .green {
   background-color: #0c8542;
 }
+h1 {
+	font-family: 'Yellowtail';
+}
+
+h2 {
+	font-family: 'Damion';
+}
+
+p {
+	padding-top: 250px;
+}
